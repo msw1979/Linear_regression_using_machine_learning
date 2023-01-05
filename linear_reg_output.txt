@@ -1,0 +1,9 @@
+CO2 Emissions vs. Engine Size
+Coefficients:  36.66754481961152
+Intercept:  134.5690577134011
+Mean Absolute Error (MAE): 23.65
+Mean Square Error (MSE): 960.67
+Root Mean Square Error (RMSE): 30.99
+Relative Absolute Error (RAE): 0.51
+Relative Square Error (RSE): 0.28
+R2-score: 0.72
